@@ -42,4 +42,4 @@ Later processing transforms the path into:
 which resolves to the protected file.
 
 Flag
-BTWCTF{waf_checked_before_normalization_9X7Khu4h4347}
+```BTWCTF{waf_checked_before_normalization_9X7Khu4h4347}```

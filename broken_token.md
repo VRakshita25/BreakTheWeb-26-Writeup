@@ -43,4 +43,4 @@ The forged token is then sent as the session cookie to the admin endpoint.
 The vault returns the flag.
 
 Flag
-BTWCTF{predictable_signing_secrets_break_trust_7Kp29X}
+```BTWCTF{predictable_signing_secrets_break_trust_7Kp29X}```

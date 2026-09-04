@@ -38,4 +38,4 @@ The validation accepts the value because it begins with /, but the browser inter
 The intended redirect bypass leads to the restricted destination and the flag.
 
 Flag
-BTWCTF{slashes_can_mean_more_than_you_think_8Xk29P}
+```BTWCTF{slashes_can_mean_more_than_you_think_8Xk29P}```

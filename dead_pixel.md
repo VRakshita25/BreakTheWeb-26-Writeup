@@ -14,3 +14,6 @@ Run:
 exiftool employee.jpg
 ↓
 Find flag
+
+Flag
+```BTWCTF{metadata_never_lies94758IDY43H}```

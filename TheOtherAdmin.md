@@ -46,4 +46,4 @@ admin
 The player is therefore recognized as an administrator and can access the vault.
 
 Flag
-BTWCTF{the_other_admin_was_never_ascii_7X9K2}
+```BTWCTF{the_other_admin_was_never_ascii_7X9K2}```

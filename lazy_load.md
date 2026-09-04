@@ -34,4 +34,4 @@ or another negative value causes the backend to expose hidden archive records.
 One of these records contains the flag.
 
 Flag
-BTWCTF{negative_offsets_reveal_hidden_records43012WW4G7}
+```BTWCTF{negative_offsets_reveal_hidden_records43012WW4G7}```

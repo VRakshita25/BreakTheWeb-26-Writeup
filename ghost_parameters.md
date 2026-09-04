@@ -26,3 +26,6 @@ The admin profile contains the flag.
 Actual vulnerability:
 
 https://ghost-parameters-xxxx.vercel.app/api/profile?user=guest&user=admin
+
+Flag
+```BTWCTF{ghost_parameters_7F4K9P2X}```

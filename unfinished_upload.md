@@ -30,4 +30,4 @@ By supplying a file that passes the initial validation but triggers the legacy p
 The final response contains the flag.
 
 Flag
-BTWCTF{mime_types_are_not_just_metadata_4Rk91Z}
+```BTWCTF{mime_types_are_not_just_metadata_4Rk91Z}```

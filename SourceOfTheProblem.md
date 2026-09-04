@@ -28,4 +28,4 @@ forgotten debugging functionality
 The exposed source information leads players to the hidden functionality containing the flag.
 
 Flag
-BTWCTF{source_maps_should_not_reach_production_8K4P2}
+```BTWCTF{source_maps_should_not_reach_production_8K4P2}```

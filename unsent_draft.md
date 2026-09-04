@@ -27,4 +27,4 @@ A leftover recovery value contains data from the old draft workflow.
 The player decodes or follows the stored recovery information to retrieve the flag.
 
 Flag
-BTWCTF{drafts_should_not_contain_secrets_7K9M8DH4T5}
+```BTWCTF{drafts_should_not_contain_secrets_7K9M8DH4T5}```

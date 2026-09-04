@@ -36,4 +36,4 @@ The vulnerable parser accepts the value and upgrades the access level.
 The admin response reveals the flag.
 
 Flag
-BTWCTF{parsers_should_not_define_authorization_9X4K5WEOJ}
+```BTWCTF{parsers_should_not_define_authorization_9X4K5WEOJ}```

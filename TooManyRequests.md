@@ -30,4 +30,4 @@ The UI believes the player is locked out, but the server continues processing re
 The correct authentication value eventually reveals the flag.
 
 Flag
-BTWCTF{rate_limits_mean_nothing_if_only_the_ui_checks_82KLM777UI}
+```BTWCTF{rate_limits_mean_nothing_if_only_the_ui_checks_82KLM777UI}```

@@ -26,4 +26,4 @@ Because the backend trusts the supplied header without ensuring it was inserted 
 The protected admin resource then reveals the flag.
 
 Flag
-BTWCTF{never_trust_client_forwarded_headers_7K4MWV293HQQ}
+```BTWCTF{never_trust_client_forwarded_headers_7K4MWV293HQQ}```

@@ -38,4 +38,4 @@ After discovering the available query structure, players request additional fiel
 The hidden API functionality eventually reveals the flag.
 
 Flag
-BTWCTF{silent_api_never_sleeps_8X4QI365HUE}
+```BTWCTF{silent_api_never_sleeps_8X4QI365HUE}```
